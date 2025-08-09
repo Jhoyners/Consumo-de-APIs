@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 8px;
+    font-size: 14px;
+    width: 200px;
+}
+
+button {
+    padding: 8px 12px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.card {
+    background-color: white;
+    display: inline-block;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-align: left;
+    width: 250px;
+}
+
+.card img {
+    display: block;
+    margin: auto;
+    width: 120px;
+    height: auto;
+}
